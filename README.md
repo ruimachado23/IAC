@@ -1,1 +1,1 @@
-# Introdução à arquitetura de computadores
+# Cadeira - Introdução à arquitetura de computadores
