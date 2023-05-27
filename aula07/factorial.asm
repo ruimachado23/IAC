@@ -1,3 +1,6 @@
+	#$t2=f
+	#t1=n
+
 .data
 prompt1: .asciiz "Introduza um número\n"
 prompt2: .asciiz "O fatorial do número inserido é: "
